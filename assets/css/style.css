@@ -1279,6 +1279,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
+#location {
+  padding-top: 60px;
+}
+
 #contact {
   padding: 60px 0;
 }
